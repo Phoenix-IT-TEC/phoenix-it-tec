@@ -1,8 +1,5 @@
-# Hexo Example
-
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration. 
-
-This version is created by [EvanNotFound](https://github.com/EvanNotFound/vercel-hexo-template), which uses the latest hexo version v6.3.0 and fixed some bugs compared to the official template.
+# Kevin John
+  I am a programmer who really love C++. I use Github, Youtube, and Google. My favourite IDE is  
 
 ## Deploy Your Own
 
